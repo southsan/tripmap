@@ -1,1 +1,15 @@
-{"name":"旅迹 TripMap","short_name":"旅迹","description":"电脑与手机通用的可视化旅行规划地图","start_url":"./","display":"standalone","background_color":"#f6f3ea","theme_color":"#14231f","lang":"zh-CN","scope":"./","orientation":"any","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "旅迹 TripMap",
+  "short_name": "旅迹",
+  "description": "电脑与手机通用的可视化旅行规划地图",
+  "theme_color": "#14231f",
+  "background_color": "#f6f3ea",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "./",
+  "scope": "./",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
